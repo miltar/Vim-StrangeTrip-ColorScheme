@@ -1,4 +1,4 @@
 # Vim-StrangeTrip-ColorScheme
 A vim color scheme
 
-![ColorScheme Snapshot](StrangeTrip.png)
+![ColorScheme Snapshot](StrangeTrip.png?raw=true)
